@@ -1,0 +1,19 @@
+/* 
+===============================================
+Override Style sheet
+===============================================
+*/
+body {
+    background-image: url("../images/backgroundPattern01.png");
+    background-repeat: repeat;
+}
+
+.main-container {
+    background-color: #ffffff;
+}
+
+img.photo {
+    height:150px;
+} 
+
+
