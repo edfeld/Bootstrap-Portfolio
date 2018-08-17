@@ -39,6 +39,17 @@ img.photo {
     font-family: "Georgia", Times, Times New Roman, serif;
 }
 
+.submit-btn {
+    background-color: #4aaaa5;
+}
+
+.form-group {
+    width: 250px!important;
+}
+.form-input {
+    width: 100%;
+}
+
 /* 
 =========================================
 Media query sm, xs 
