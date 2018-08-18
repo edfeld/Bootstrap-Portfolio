@@ -46,6 +46,7 @@ img.photo {
 .form-group {
     width: 250px!important;
 }
+
 .form-input {
     width: 100%;
 }
@@ -61,7 +62,7 @@ Media query sm, xs
         float: none!important;
         display: block!important;
         margin-bottom: 10px;
-        height: 150px;
+        height: 1   50px;
         margin-left: auto!important;
         margin-right: auto!important;
     }
