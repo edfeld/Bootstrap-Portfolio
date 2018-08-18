@@ -29,7 +29,7 @@ h1 {
 }
 
 img.photo {
-    height:150px;
+    height:250px;
 } 
 
 .figure-caption {
@@ -61,7 +61,7 @@ Media query sm, xs
         float: none!important;
         display: block!important;
         margin-bottom: 10px;
-        height: 250px;
+        height: 150px;
         margin-left: auto!important;
         margin-right: auto!important;
     }
@@ -69,7 +69,6 @@ Media query sm, xs
     .port-img-row {
         text-align: center!important;
     }
-
 
 }
 
