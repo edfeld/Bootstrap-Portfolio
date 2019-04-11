@@ -32,6 +32,21 @@ img.photo {
     height:250px;
 } 
 
+.figure {
+    margin-bottom: -9px !important;
+}
+.figure-caption>a:visited, a:link, a:active {
+    text-decoration: none;
+}
+
+.figure-caption:hover {
+    text-decoration: none;
+    color: black !important;
+    /* font-size: 1.2em;
+    padding-top: 2px !important;
+    padding-bottom: 7px !important; */
+}
+
 .figure-caption {
     background-color: #4aaaa5;
     color: #ffffff;
@@ -49,6 +64,18 @@ img.photo {
 
 .form-input {
     width: 100%;
+}
+
+.card-fig :hover {
+    opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+.project-link {
+    position: relative;
+    z-index: 99;
+    /* left: -132px; */
+    
 }
 
 /* 
