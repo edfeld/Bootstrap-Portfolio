@@ -39,19 +39,21 @@ img.photo {
     text-decoration: none;
 }
 
-.figure-caption:hover {
+/* .figure-caption:hover {
     text-decoration: none;
     color: black !important;
-    /* font-size: 1.2em;
-    padding-top: 2px !important;
-    padding-bottom: 7px !important; */
-}
+
+} */
 
 .figure-caption {
     background-color: #4aaaa5;
     color: #ffffff;
     bottom: 50px;
     font-family: "Georgia", Times, Times New Roman, serif;
+}
+
+.submit-label {
+    margin: 0 0 15px 0; 
 }
 
 .submit-btn {
@@ -78,6 +80,14 @@ img.photo {
     
 }
 
+.footer-text {
+    padding-top: 18px;
+    font-size: 2.0em;
+}
+
+fig-caption {
+    height: 100px; 
+}
 /* 
 =========================================
 Media query sm, xs 
